@@ -32,6 +32,3 @@ The dashboard consists of three key visualizations:
 - **Matplotlib** – Data visualization
 
 ---
-
-## 📁 Project Structure
-
